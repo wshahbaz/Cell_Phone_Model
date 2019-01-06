@@ -8,14 +8,14 @@ This phone stand has 3 different angle positions, each able to support a phone i
 
 If you like the design, feel free to print it and share with your friends!
 
-#image of plain phonestand
+![Image of phone stand](Images/plainStand.jpeg)
 
 ## Test with LG G5
 
-#image of LG G5 
+![Image of model test1](Images/modelPos1.jpg)
 
 ## Showcase
 
-#image of cool image
+![Image of stand with rim](Images/standWithRim.jpg)
 
-**Note** that if you like the laser cut BMW M4 rim, that file is available here.
+**Note** that if you like the laser cut BMW M4 rim, that file is available [here](https://github.com/wshahbaz/Cell_Phone_Model/blob/master/Snowflake.dwg)
